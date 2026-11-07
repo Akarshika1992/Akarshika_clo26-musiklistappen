@@ -14,8 +14,8 @@ Det här är en konsolapp i C# som hanterar Taylor Swifts musik i en SQLite-data
 ## Så kör du den
 
 ```bash
-git clone [länk till din fork]
-cd [mappens namn]/MusikApp
+git clone git@github.com:Akarshika1992/Akarshika_clo26-musiklistappen.git
+cd Akarshika_clo26-musiklistappen/MusikApp
 dotnet run
 ```
 
